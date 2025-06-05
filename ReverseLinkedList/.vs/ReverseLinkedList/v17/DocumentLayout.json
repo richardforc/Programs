@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\source\\repos\\ReverseLinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE56060-6D62-4929-B4E9-F4647995C2B5}|ReverseLinkedList\\ReverseLinkedList.vcxproj|C:\\Users\\micha\\source\\repos\\ReverseLinkedList\\ReverseLinkedList\\ReverseLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEE56060-6D62-4929-B4E9-F4647995C2B5}|ReverseLinkedList\\ReverseLinkedList.vcxproj|solutionrelative:ReverseLinkedList\\ReverseLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReverseLinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\ReverseLinkedList\\ReverseLinkedList\\ReverseLinkedList.cpp",
+              "RelativeDocumentMoniker": "ReverseLinkedList\\ReverseLinkedList.cpp",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\ReverseLinkedList\\ReverseLinkedList\\ReverseLinkedList.cpp",
+              "RelativeToolTip": "ReverseLinkedList\\ReverseLinkedList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T12:45:30.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  FindMinMaxSum.cpp
+C:\Users\micha\source\repos\FindMinMaxSum\FindMinMaxSum.cpp(67,18): warning C4018: '<': signed/unsigned mismatch
+  FindMinMaxSum.vcxproj -> C:\Users\micha\source\repos\FindMinMaxSum\x64\Debug\FindMinMaxSum.exe
