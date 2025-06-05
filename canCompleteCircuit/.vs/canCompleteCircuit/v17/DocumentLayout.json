@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\source\\repos\\canCompleteCircuit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF557E0-D10C-496A-AA1F-832B114388D9}|canCompleteCircuit\\canCompleteCircuit.vcxproj|C:\\Users\\micha\\source\\repos\\canCompleteCircuit\\canCompleteCircuit\\canCompleteCircuit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DF557E0-D10C-496A-AA1F-832B114388D9}|canCompleteCircuit\\canCompleteCircuit.vcxproj|solutionrelative:canCompleteCircuit\\canCompleteCircuit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "canCompleteCircuit.cpp",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\canCompleteCircuit\\canCompleteCircuit\\canCompleteCircuit.cpp",
+              "RelativeDocumentMoniker": "canCompleteCircuit\\canCompleteCircuit.cpp",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\canCompleteCircuit\\canCompleteCircuit\\canCompleteCircuit.cpp",
+              "RelativeToolTip": "canCompleteCircuit\\canCompleteCircuit.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T17:54:29.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
