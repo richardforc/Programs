@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\source\\repos\\richardforc\\Programs\\FindMaxWithLeastIndices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A65CDEE-FC90-40CD-B04A-A39546E0FD27}|FindMaxWithLeastIndices.vcxproj|C:\\Users\\micha\\source\\repos\\richardforc\\Programs\\FindMaxWithLeastIndices\\FindMaxWithLeastIndices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A65CDEE-FC90-40CD-B04A-A39546E0FD27}|FindMaxWithLeastIndices.vcxproj|solutionrelative:FindMaxWithLeastIndices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FindMaxWithLeastIndices.cpp",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\richardforc\\Programs\\FindMaxWithLeastIndices\\FindMaxWithLeastIndices.cpp",
+              "RelativeDocumentMoniker": "FindMaxWithLeastIndices.cpp",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\richardforc\\Programs\\FindMaxWithLeastIndices\\FindMaxWithLeastIndices.cpp*",
+              "RelativeToolTip": "FindMaxWithLeastIndices.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-14T05:14:00.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

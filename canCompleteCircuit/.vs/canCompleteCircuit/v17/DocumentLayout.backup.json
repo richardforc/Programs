@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "canCompleteCircuit.cpp",
               "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\canCompleteCircuit\\canCompleteCircuit\\canCompleteCircuit.cpp",
               "RelativeDocumentMoniker": "canCompleteCircuit\\canCompleteCircuit.cpp",
-              "ToolTip": "C:\\Users\\micha\\source\\repos\\canCompleteCircuit\\canCompleteCircuit\\canCompleteCircuit.cpp*",
-              "RelativeToolTip": "canCompleteCircuit\\canCompleteCircuit.cpp*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\canCompleteCircuit\\canCompleteCircuit\\canCompleteCircuit.cpp",
+              "RelativeToolTip": "canCompleteCircuit\\canCompleteCircuit.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-06T17:54:29.93Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

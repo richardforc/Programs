@@ -1,0 +1,4 @@
+﻿  MeanAndModeProblem.cpp
+C:\Users\micha\source\repos\richardforc\Programs\MeanAndModeProblem\MeanAndModeProblem.cpp(17,28): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\micha\source\repos\richardforc\Programs\MeanAndModeProblem\MeanAndModeProblem.cpp(37,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  MeanAndModeProblem.vcxproj -> C:\Users\micha\source\repos\richardforc\Programs\MeanAndModeProblem\x64\Debug\MeanAndModeProblem.exe

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\micha\\source\\repos\\SequenceContainer\\",
+  "WorkspaceRootPath": "C:\\Users\\micha\\source\\repos\\richardforc\\Programs\\SequenceContainer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{275555DE-31CE-4BAA-A46E-537CF6A772F3}|SequenceContainer\\SequenceContainer.vcxproj|C:\\Users\\micha\\source\\repos\\SequenceContainer\\SequenceContainer\\SequenceContainer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{275555DE-31CE-4BAA-A46E-537CF6A772F3}|SequenceContainer\\SequenceContainer.vcxproj|C:\\Users\\micha\\source\\repos\\richardforc\\Programs\\SequenceContainer\\SequenceContainer\\SequenceContainer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{275555DE-31CE-4BAA-A46E-537CF6A772F3}|SequenceContainer\\SequenceContainer.vcxproj|solutionrelative:SequenceContainer\\SequenceContainer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SequenceContainer.cpp",
-              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\SequenceContainer\\SequenceContainer\\SequenceContainer.cpp",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\richardforc\\Programs\\SequenceContainer\\SequenceContainer\\SequenceContainer.cpp",
               "RelativeDocumentMoniker": "SequenceContainer\\SequenceContainer.cpp",
-              "ToolTip": "C:\\Users\\micha\\source\\repos\\SequenceContainer\\SequenceContainer\\SequenceContainer.cpp",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\richardforc\\Programs\\SequenceContainer\\SequenceContainer\\SequenceContainer.cpp",
               "RelativeToolTip": "SequenceContainer\\SequenceContainer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

@@ -1,0 +1,3 @@
+﻿  FindMaxWithLeastIndices.cpp
+C:\Users\micha\source\repos\richardforc\Programs\FindMaxWithLeastIndices\FindMaxWithLeastIndices.cpp(22,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  FindMaxWithLeastIndices.vcxproj -> C:\Users\micha\source\repos\richardforc\Programs\FindMaxWithLeastIndices\x64\Debug\FindMaxWithLeastIndices.exe
